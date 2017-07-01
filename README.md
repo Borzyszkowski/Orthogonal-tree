@@ -1,5 +1,5 @@
 #Orthogonal-tree
-Projekt z dnia 2017_03_15
+Projekt napisano w okresie: 2017_03
 
 Visualization of an orthogonal tree
 
