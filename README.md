@@ -1,13 +1,8 @@
-# Binary-tree
+#Orthogonal-tree
 
-Opis projektu
+Visualization of an orthogonal tree
+Ortogonalna wizualizacja drzewa
 
-Na Politechnice Gdańskiej zbliża się termin odbioru projektów z podstaw programowania. Planiści zastanawiają się, jak zorganizować pracę nauczycieli odbierających projekt. Sal, w których można przeprowadzić odbiory nie jest wiele, dlatego planistom zależy na tym, by w jednej sali różni nauczyciele mogli rozmawiać ze swoimi studentami jednocześnie. Jednak niektórzy nauczyciele współprzacowali ze sobą przy formułowaniu zadań projektowych i nie chcieliby, by studenci rozliczający się z takich zadań słyszeli siebie wzajemnie podczas odbioru. W takim przypadku zajęcia powinny być prowadzone w różnych salach. Planiści otrzymali od nauczyciela informację, którzy z nich mogą rozmawiać ze studentami w tej samej sali, a którzy nie. Zastanawiają się, jak zaplanować odbiory projektów.
+Opis projektu - Struktury dynamiczne
 
-Napisz program realizujący następujące zadania:
-a) Wprowadzenie liczby nauczycieli K odbierających projekty oraz nadanie im symboli: n1, n2, ..., nK.
-b) Wprowadzenie informacji o relacji między nauczycielami (którzy mogą, a którzy nie mogą pracować w tej samej sali).
-c) Wyświetlenie relacji między nauczycielami w formie tabeli ('x' jeśli nie mogą pracować w tej samej sali, '-' jeśli mogą).
-d) Wyznaczenie minimalnej liczby sal do przeprowadzenia odbioru projektów.
-e) Wprowadzenie liczby sal oraz wyznaczenie przydziału nauczycieli do danych sal.
-f) Wyświetlenie sposobu ulokowania nauczycieli w salach.
+Napisz program generujący i wyświetlający drzewo w postaci ortogonalnej. Przyjmij, że drzewo reprezentowane jest przez listy sąsiedztwa wierzchołków, z jednym wierzchołkiem wyróżnionym jako korzeń oraz, że wysokość drzewa pozwala na jego narysowanie na ekranie o szerokości 80 znaków.
